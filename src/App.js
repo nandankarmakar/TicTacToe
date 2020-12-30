@@ -80,6 +80,7 @@ const App = () => {
 
   return (
     <Container className="p-5">
+    <h1 className='text-center text-white text-info'>Play TicTacToe, Have fun!!</h1>
       <ToastContainer position="bottom-center" />
       <Row>
         <Col md={6} className="offset-md-3">
